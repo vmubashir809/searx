@@ -49,3 +49,4 @@ More about searx
 
 .. |OpenCollective searx sponsors| image:: https://opencollective.com/searx/sponsors/badge.svg
    :target: https://opencollective.com/searx#sponsor
+--end
